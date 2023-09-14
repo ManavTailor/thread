@@ -8,10 +8,10 @@ const Header = () => {
       <div>
         <Link href="/">
         <Image
-        src="/images/my-image.jpg"
-        alt="My Image"
-        width={500}
-        height={300}
+        src="/Tlogo.jpg"
+        width={50}
+        height={50}
+        alt='logo'
       />
         </Link>
       </div>
